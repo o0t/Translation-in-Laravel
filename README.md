@@ -1,2 +1,4 @@
 # Translation-in-Laravel
-Translation [ ar - en - .... ]
+
+<h1>test</h1>
+
