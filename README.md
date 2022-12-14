@@ -1,7 +1,8 @@
 # Translation-in-Laravel  <p align="right"> الترجمة في لارافيل </p>
 
 
-- Light/dark mode toggle
+- Translate each word in the language assigned to it
+- <p align="right"> ترجمة كل كلمة باللغة المخصصة لها </p>
 - Live previews
 - Fullscreen mode
 - Cross platform
