@@ -1,6 +1,10 @@
 # <p align="center" > Translation-in-Laravel </p>
 # <p align="center"> الترجمة في لارافيل </p>
 
+
+
+<br><br><br>
+
 ## Laravel translation features
 - Translate each word in the language assigned to it
 - Turn the page from right to left
