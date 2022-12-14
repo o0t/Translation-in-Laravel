@@ -6,11 +6,11 @@
 <br><br><br>
 
 ## Laravel translation features
-- Translate each word in the language assigned to it
-- Turn the page from right to left
-- The translation is done in one language file
-- The translation is done using a file json
-- The language is stored in the session
+<li align="center"> Translate each word in the language assigned to it </li>
+<li align="center"> Turn the page from right to left</li>
+<li align="center"> The translation is done in one language file</li>
+<li align="center"> The translation is done using a file json</li>
+<li align="center">  The language is stored in the session</li>
 
 
 ## <p align="center"> ميزات الترجمة في لارافيل   </p>
