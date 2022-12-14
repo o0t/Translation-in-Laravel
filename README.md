@@ -1,4 +1,5 @@
-# Translation-in-Laravel  <p align="right"> الترجمة في لارافيل </p>
+# align="right" Translation-in-Laravel 
+<p align="right"> الترجمة في لارافيل </p>
 
 ## Laravel translation features
 - Translate each word in the language assigned to it
