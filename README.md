@@ -1,4 +1,6 @@
 # Translation-in-Laravel
-
-<p style="text-align: right">test</p>
+<pre>
+<span color="red">hello</span>
+  world
+</pre>
 
