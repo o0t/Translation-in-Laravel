@@ -21,9 +21,10 @@
 <li dir="rtl" align="center"> يتم تخزين اللغة في الجلسة </li>
 
 
+<br><br>
 
-# Go to the settings page of the application to add the languages we want
-# Go to the settings page of the application to add the languages we want
+# <p align="center"> Go to the settings page of the application to add the languages we want   </p>
+# <p align="center"> انتقل إلى صفحة الإعدادات الخاصة بالتطبيق لإضافة اللغات التي نريدها   </p>
 
 
 <!-- <p align="right"> right </p> -->
