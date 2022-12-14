@@ -1,4 +1,4 @@
 # Translation-in-Laravel
 
-<h1>test</h1>
+<h1 style="text-align: right">test</h1>
 
