@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-## Laravel translation features
+##  <p align="center" >  Laravel translation features </p>
 <li align="center"> Translate each word in the language assigned to it </li>
 <li align="center"> Turn the page from right to left</li>
 <li align="center"> The translation is done in one language file</li>
