@@ -1,3 +1,3 @@
 # Translation-in-Laravel
 
-<p align="center"> test </p>
+<p align="right"> right </p>
