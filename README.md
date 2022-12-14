@@ -1,6 +1,5 @@
 # Translation-in-Laravel  <p align="right"> الترجمة في لارافيل </p>
 
-## Features
 
 - Light/dark mode toggle
 - Live previews
