@@ -8,7 +8,7 @@
 
 
 ## <p align="right"> ميزات الترجمة في لارافيل   </p>
-- <p align="right"> ترجمة كل كلمة باللغة المخصصة لها </p>
+<li align="right"> ترجمة كل كلمة باللغة المخصصة لها </li>
 - <p align="right"> اقلب الصفحة من اليمين إلى اليسار </p>
 <!-- <p align="right"> right </p> -->
 <!-- <p align="center"> right </p> -->
