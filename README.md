@@ -13,11 +13,18 @@
 - The language is stored in the session
 
 
-## <p align="right"> ميزات الترجمة في لارافيل   </p>
-<li dir="rtl" align="right"> ترجمة كل كلمة باللغة المخصصة لها </li>
-<li dir="rtl" align="right"> اقلب الصفحة من اليمين إلى اليسار </li>
-<li dir="rtl" align="right"> تتم الترجمة في ملف واحد خاص باللغة </li>
-<li dir="rtl" align="right"> تتم الترجمة باستخدام ملف json </li>
-<li dir="rtl" align="right"> يتم تخزين اللغة في الجلسة </li>
+## <p align="center"> ميزات الترجمة في لارافيل   </p>
+<li dir="rtl" align="center"> ترجمة كل كلمة باللغة المخصصة لها </li>
+<li dir="rtl" align="center"> اقلب الصفحة من اليمين إلى اليسار </li>
+<li dir="rtl" align="center"> تتم الترجمة في ملف واحد خاص باللغة </li>
+<li dir="rtl" align="center"> تتم الترجمة باستخدام ملف json </li>
+<li dir="rtl" align="center"> يتم تخزين اللغة في الجلسة </li>
+
+
+
+# Go to the settings page of the application to add the languages we want
+# Go to the settings page of the application to add the languages we want
+
+
 <!-- <p align="right"> right </p> -->
 <!-- <p align="center"> right </p> -->
