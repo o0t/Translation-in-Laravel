@@ -11,6 +11,6 @@
 <li dir="rtl" align="right"> ترجمة كل كلمة باللغة المخصصة لها </li>
 <li dir="rtl" align="right"> اقلب الصفحة من اليمين إلى اليسار </li>
 <li dir="rtl" align="right"> تتم الترجمة في ملف واحد خاص باللغة </li>
-<li dir="rtl" align="right"> json تتم الترجمة باستخدام ملف</li>
+<li dir="rtl" align="right"> تتم الترجمة باستخدام ملف json </li>
 <!-- <p align="right"> right </p> -->
 <!-- <p align="center"> right </p> -->
