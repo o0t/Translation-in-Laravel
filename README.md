@@ -41,6 +41,9 @@
  ## [2] - Then create a file in the language you want, here I will use the Arabic language `resources/lang/ar.json` 
 
 
+![image](https://user-images.githubusercontent.com/94997828/207743448-146fd867-b990-4175-9849-8fe068703aee.png)
+
+
 
  
 
