@@ -30,7 +30,10 @@
 # <p align="center"> انتقل إلى صفحة الإعدادات الخاصة بالتطبيق لإضافة اللغات التي نريدها   </p>
 
 ## <p align="center"> `config/app.php` </p>
- 
+###  <p align="center">  Add </p>
+
+ ![لقطة الشاشة 2022-12-15 030646](https://user-images.githubusercontent.com/94997828/207741941-c6a66a4e-59ce-4d1e-80c3-f8351b999670.png)
+
 
 
 <!-- <p align="right"> right </p> -->
