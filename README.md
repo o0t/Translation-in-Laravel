@@ -79,31 +79,42 @@
     {{__('Welcome')}}
 ```
 
- ## [4] - Switching locales in Laravel  `routes/web.php` 
- 
- ![image](https://user-images.githubusercontent.com/94997828/207743892-2bae5779-baa1-4f89-b4e7-abaff0d2298d.png)
-
-
-```bash
-   Route::get('lan/{locale?}', function ($locale = null) {
-       if (isset($locale) && in_array($locale, config('app.available_locales'))) {
-           app()->setLocale($locale);
-       }
-
-       return view('welcome');
-   });
-```
-
  ## [4] - Create  Middleware  `php artisan make:middleware Localization` 
  
  ![image](https://user-images.githubusercontent.com/94997828/207744116-76dc949f-468d-4127-9458-e7cb699f4835.png)
 
 ```bash
-
         if (Session::has('locale')) {
             App::setLocale(Session::get('locale'));
         }
         return $next($request);
 ```
 
+
+ ## [5] - These middleware will instruct Laravel to use the locale specified by the user if that specification is present in the session.  `app/http/Kernel.php` 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/94997828/207744713-baac5631-49b8-4e2d-b865-91196656bd3d.png)
+
+
+```bash
+  \App\Http\Middleware\Localization::class,
+```
+ 
+ 
+ ## [6] - Switching locales in Laravel  `routes/web.php` 
+ 
+![image](https://user-images.githubusercontent.com/94997828/207744963-17b48ad1-88bd-445e-8c9c-e127547fd023.png)
+
+
+```bash
+Route::get('language/{locale}', function ($locale) {
+    app()->setLocale($locale);
+    session()->put('locale', $locale);
+
+    return redirect()->back();
+});
+```
+ 
+ 
 
