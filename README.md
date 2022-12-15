@@ -50,6 +50,15 @@
 ![image](https://user-images.githubusercontent.com/94997828/207743648-d3300aaf-31e2-4a76-a4e7-e58ef1546897.png)
 
 
+ ## [4] - Switching locales in Laravel  `routes/web.php` 
+ 
+ ![image](https://user-images.githubusercontent.com/94997828/207743892-2bae5779-baa1-4f89-b4e7-abaff0d2298d.png)
+
+
+ ## [4] - Create  Middleware  `php artisan make:middleware Localization` 
+ 
+ ![image](https://user-images.githubusercontent.com/94997828/207744116-76dc949f-468d-4127-9458-e7cb699f4835.png)
+
 
 
 
