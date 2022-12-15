@@ -44,8 +44,12 @@
 ![image](https://user-images.githubusercontent.com/94997828/207743448-146fd867-b990-4175-9849-8fe068703aee.png)
 
 
+ ## [3] - Go to the main page to type the word in translation mode `welcome.blade.php` 
 
  
+![image](https://user-images.githubusercontent.com/94997828/207743648-d3300aaf-31e2-4a76-a4e7-e58ef1546897.png)
+
+
 
 
 
