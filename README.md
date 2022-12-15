@@ -26,7 +26,7 @@
 <br><br><br>
 <hr>
 <br>
-##  Go to the settings page of the application to add the languages we want    `config/app.php` 
+##  [1] - Go to the settings page of the application to add the languages we want    `config/app.php` 
 
 ```bash
   locale : is The main language of the application
@@ -37,7 +37,7 @@
  ![لقطة الشاشة 2022-12-15 030646](https://user-images.githubusercontent.com/94997828/207741941-c6a66a4e-59ce-4d1e-80c3-f8351b999670.png)
  <br>
 
- ## Then create a file in the language you want, here I will use the Arabic language `resources/lang/ar.json` 
+ ## [2] - Then create a file in the language you want, here I will use the Arabic language `resources/lang/ar.json` 
 
 
 
