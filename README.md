@@ -26,7 +26,7 @@
 <br><br><br>
 <hr>
 <br>
-##  [1] - Go to the settings page of the application to add the languages we want    `config/app.php` 
+##  [ 1 ] - Go to the settings page of the application to add the languages we want    `config/app.php` 
 
 ```bash
   locale : is The main language of the application
