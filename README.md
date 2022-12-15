@@ -117,4 +117,24 @@ Route::get('language/{locale}', function ($locale) {
 ```
  
  
+ 
+ <hr>
+ 
+ 
+ ![Uploading image.png…]()
+
+
+
+```bash
+       @if (app()->getLocale() == 'ar')
+            <h1>This is Arabic</h1>
+        @endif
+
+
+
+        @if (app()->getLocale() == 'en')
+            <h1>This is Einglish</h1>
+        @endif
+```
+ 
 
