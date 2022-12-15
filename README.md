@@ -28,32 +28,71 @@
 <br>
 
  ## [1] - Go to the settings page of the application to add the languages we want    `config/app.php` 
-
-```bash
+  
   locale : is The main language of the application
-```
+
 
 ###   Add 
 
  ![لقطة الشاشة 2022-12-15 030646](https://user-images.githubusercontent.com/94997828/207741941-c6a66a4e-59ce-4d1e-80c3-f8351b999670.png)
- <br>
+
+```bash
+  
+    /*
+    |--------------------------------------------------------------------------
+    | Available locales
+    |--------------------------------------------------------------------------
+    |
+    | List all locales that your application works with
+    |
+    */
+
+
+    'available_locales' => [
+    'English' => 'en',
+    'Arabic'  => 'ar',
+    'Russian' => 'ru',
+    'French' => 'fr',
+    ],
+
+
+```
+
 
  ## [2] - Then create a file in the language you want, here I will use the Arabic language `resources/lang/ar.json` 
 
 
 ![image](https://user-images.githubusercontent.com/94997828/207743448-146fd867-b990-4175-9849-8fe068703aee.png)
 
+```bash
+    {
+    "Welcome": "مرحبا"
+    }
+```
 
  ## [3] - Go to the main page to type the word in translation mode `welcome.blade.php` 
 
  
 ![image](https://user-images.githubusercontent.com/94997828/207743648-d3300aaf-31e2-4a76-a4e7-e58ef1546897.png)
 
+```bash
+    {{__('Welcome')}}
+```
 
  ## [4] - Switching locales in Laravel  `routes/web.php` 
  
  ![image](https://user-images.githubusercontent.com/94997828/207743892-2bae5779-baa1-4f89-b4e7-abaff0d2298d.png)
 
+
+```bash
+   Route::get('lan/{locale?}', function ($locale = null) {
+       if (isset($locale) && in_array($locale, config('app.available_locales'))) {
+           app()->setLocale($locale);
+       }
+
+       return view('welcome');
+   });
+```
 
  ## [4] - Create  Middleware  `php artisan make:middleware Localization` 
  
