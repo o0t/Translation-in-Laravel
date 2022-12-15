@@ -26,14 +26,15 @@
 <br><br><br>
 <hr>
 
-# <p align="center"> Go to the settings page of the application to add the languages we want   </p>
+# <p align="center"> Go to the settings page of the application to add the languages we want  </p>
 # <p align="center"> انتقل إلى صفحة الإعدادات الخاصة بالتطبيق لإضافة اللغات التي نريدها   </p>
 
 ## <p align="center"> `config/app.php` </p>
 ###  <p align="center">  Add </p>
 
  ![لقطة الشاشة 2022-12-15 030646](https://user-images.githubusercontent.com/94997828/207741941-c6a66a4e-59ce-4d1e-80c3-f8351b999670.png)
-
+ <p align="center"> `locale` is The main language of the application </p>
+ <p align="center"> `locale` اللغة الرئيسية للتطبيق </p>
 
 # <p align="center"> Then create a file in the language you want, here I will use the Arabic language  </p>
 # <p align="center"> ثم قم بإنشاء ملف باللغة التي تريدها ، هنا سأستخدم اللغة العربية  </p>
