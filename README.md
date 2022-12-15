@@ -42,6 +42,12 @@
 ```
  </p>
  
+  <div dir="rtl"> 
+```bash
+  locale is The main language of the application
+```
+ </div>
+ 
  <p align="center"> `locale is The main language of the application ` </p>
  <p align="center"> `locale` اللغة الرئيسية للتطبيق </p>
 
