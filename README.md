@@ -11,6 +11,7 @@
 <li align="center"> The translation is done in one language file</li>
 <li align="center"> The translation is done using a file json</li>
 <li align="center">  The language is stored in the session</li>
+<li align="center">  You can create CSS files for each language </li>
 
 
 ## <p align="center"> ميزات الترجمة في لارافيل   </p>
@@ -19,6 +20,7 @@
 <li dir="rtl" align="center"> تتم الترجمة في ملف واحد خاص باللغة </li>
 <li dir="rtl" align="center"> تتم الترجمة باستخدام ملف json </li>
 <li dir="rtl" align="center"> يتم تخزين اللغة في الجلسة </li>
+<li dir="rtl" align="center"> يمكنك إنشاء ملفات CSS لكل لغة </li>
 
 
 <br><br><br>
@@ -26,6 +28,10 @@
 
 # <p align="center"> Go to the settings page of the application to add the languages we want   </p>
 # <p align="center"> انتقل إلى صفحة الإعدادات الخاصة بالتطبيق لإضافة اللغات التي نريدها   </p>
+
+## <p align="center"> `API_KEY`
+   </p>
+ 
 
 
 <!-- <p align="right"> right </p> -->
