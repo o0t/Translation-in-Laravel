@@ -121,7 +121,7 @@ Route::get('language/{locale}', function ($locale) {
  <hr>
  
  
- ![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/94997828/207745734-613df224-221d-4f03-8459-5a27d137ee45.png)
 
 
 
