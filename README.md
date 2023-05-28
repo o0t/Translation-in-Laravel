@@ -83,6 +83,14 @@
  
  ![image](https://user-images.githubusercontent.com/94997828/207744116-76dc949f-468d-4127-9458-e7cb699f4835.png)
 
+
+
+
+```bash
+       use Session;
+       use Illuminate\Support\Facades\App;
+```
+
 ```bash
         if (Session::has('locale')) {
             App::setLocale(Session::get('locale'));
