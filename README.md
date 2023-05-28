@@ -145,4 +145,15 @@ Route::get('language/{locale}', function ($locale) {
         @endif
 ```
  
+ 
+ ```bash
+
+    @if (app()->getLocale() == 'ar')
+
+    @elseif(app()->getLocale() == 'en')
+ 
+    @endif
+
+```
+ 
 
